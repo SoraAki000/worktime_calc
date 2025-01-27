@@ -5,7 +5,7 @@
 - В виде исходного скрипта Python (runtimecalc.py):
   - Для работы потребуется наличие IDE/IDLE (Python 3.x)
   - Полезно, если хотите внести свои правки
-- В виде исполняемого файла (Worktime Calculator v2.exe):
+- В виде исполняемого файла (Worktime Calculator.exe):
   - Для работы достаточно скачать и запустить файл (уже собрано)
 
 Исполняемый файл собран с использованием библиотеки [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
